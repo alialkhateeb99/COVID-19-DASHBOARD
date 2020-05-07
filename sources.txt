@@ -1,0 +1,15 @@
+
+1ST COMMAND LINE ARGUMENT TO STATS.SH
+
+https://www.theguardian.com/world/ng-interactive/2020/may/04/coronavirus-map-of-the-us-latest-cases-state-by-state
+
+2ND COMMAND LINE ARGUMENT 
+
+https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+
+
+COMMAND TO PASTE TO TERMINAL :
+
+
+./stats.sh https://www.theguardian.com/world/ng-interactive/2020/may/04/coronavirus-map-of-the-us-latest-cases-state-by-state https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx
+
